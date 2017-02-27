@@ -1,0 +1,22 @@
+{
+  "name": "VariousUIButton",
+  "version": "0.1.0",
+  "summary": "A short description of VariousUIButton.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ayumu838/VariousUIButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ayumu838": "ayumu839.a@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ayumu838/VariousUIButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "VariousUIButton/Classes/**/*"
+}

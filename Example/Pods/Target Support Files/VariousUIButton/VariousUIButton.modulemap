@@ -1,0 +1,6 @@
+framework module VariousUIButton {
+  umbrella header "VariousUIButton-umbrella.h"
+
+  export *
+  module * { export * }
+}
