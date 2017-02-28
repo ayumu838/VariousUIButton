@@ -4,6 +4,8 @@
 [![Version](https://img.shields.io/cocoapods/v/VariousUIButton.svg?style=flat)](http://cocoapods.org/pods/VariousUIButton)
 [![License](https://img.shields.io/cocoapods/l/VariousUIButton.svg?style=flat)](http://cocoapods.org/pods/VariousUIButton)
 [![Platform](https://img.shields.io/cocoapods/p/VariousUIButton.svg?style=flat)](http://cocoapods.org/pods/VariousUIButton)
+[![laguage](https://img.shields.io/badge/swift-3.0.2-blue.svg)](https://travis-ci.org/ayumu838/VariousUIButton)
+[![license](https://img.shields.io/github/license/ayumu838/VariousUIButton.svg)](https://github.com/ayumu838/VariousUIButton/blob/master/LICENSE)
 
 ## Example
 
