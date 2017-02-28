@@ -20,10 +20,6 @@ it, simply add the following line to your Podfile:
 pod "VariousUIButton"
 ```
 
-## Author
-
-ayumu838, ayumu839.a@gmail.com
-
 ## License
 
 VariousUIButton is available under the MIT license. See the LICENSE file for more info.
